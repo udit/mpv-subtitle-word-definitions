@@ -1,6 +1,6 @@
 # mpv Subtitle Word Definitions
 
-This script loads word definitions from free Dictionary API and Wiktionary to show definitions of a word in subtitles.
+This script loads word definitions from free Dictionary API and Wiktionary to show definitions of a word (supports multiple languages) in subtitles.
 
 <img width="1624" height="909" alt="define" src="https://github.com/user-attachments/assets/2f0a1d1a-f2a2-4861-a6ea-05ea9a7d7bb9" />
 
